@@ -8,7 +8,7 @@ exports.config = {
     /**
      * Array of application names.
      */
-    app_name: ['Node Unblocker'],
+    app_name: ['Kira Yoshikages Hideout],
     /**
      * Your New Relic license key.
      */
